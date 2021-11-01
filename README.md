@@ -2,9 +2,9 @@
 	
 🌎 Me chamo Luiz Guilherme, 19.
 
- - 👨‍💻 Desenvolvedor Júnior Full Stack;
+ - 👨‍💻 Estudando técnologias Front-End;
  - 🖥️ Técnico em Desenvolvimento de Sistemas - Etec;
- - 📚 Estudando: Análise Desenvolvimento de Sistemas - Fatec;
+ - 📚 Análise Desenvolvimento de Sistemas - Fatec (3/6);
 
 ## Social
 
