@@ -4,7 +4,7 @@
 
  - 👨‍💻 Estudando técnologias Front-End;
  - 🖥️ Técnico em Desenvolvimento de Sistemas - Etec;
- - 📚 Análise Desenvolvimento de Sistemas - Fatec (3/6);
+ - 📚 Análise Desenvolvimento de Sistemas - Fatec (4/6);
 
 ## Social
 
