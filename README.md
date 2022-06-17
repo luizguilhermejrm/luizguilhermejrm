@@ -1,6 +1,6 @@
 ## Opá 😁
 	
-🌎 Me chamo Luiz Guilherme, 19.
+🌎 Me chamo Luiz Guilherme, 20.
 
  - 👨‍💻 Estudando técnologias Front-End;
  - 🖥️ Técnico em Desenvolvimento de Sistemas - Etec;
