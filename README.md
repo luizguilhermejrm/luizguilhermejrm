@@ -1,13 +1,12 @@
-## Opá 😁
-	
-🌎 Me chamo Luiz Guilherme, 20.
+<img src="https://user-images.githubusercontent.com/86865701/183516044-3dd15241-732e-4cdc-9691-e1ab033082fb.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
- - 👨‍💻 Estudando técnologias Front-End;
- - 🖥️ Técnico em Desenvolvimento de Sistemas - Etec;
- - 📚 Análise Desenvolvimento de Sistemas - Fatec (4/6);
+## Bem vindo! ☄️
 
-## Social
+Me chamo Luiz Guilherme, tenho 20 anos e gosto de tecnologias front-end. Atualmente estou graduando Análise e Desenvolvimento de Sistemas na Fatec Guaratinguetá.
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Luizguilhermejrm)](https://github.com/Luizguilhermejrm)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-guilherme-7b15a3183/)](https://www.linkedin.com/in/luiz-guilherme-7b15a3183/)
+#### Redes sociais para contato: 
+
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/luizguilhermejrm/"/>)](www.instagram.com/luizguilhermejrm/)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luizguilhermejrm/"/>)](https://www.linkedin.com/in/luizguilhermejrm/)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/luizguilhermejrm"/>)](https://t.me/luizguilhermejrm)
 
