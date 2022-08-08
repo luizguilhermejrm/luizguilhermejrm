@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/86865701/183516044-3dd15241-732e-4cdc-9691-e1ab033082fb.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+<img src="https://user-images.githubusercontent.com/86865701/183516044-3dd15241-732e-4cdc-9691-e1ab033082fb.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
 
 ## Bem vindo! ☄️
 
