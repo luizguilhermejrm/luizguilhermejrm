@@ -1,8 +1,6 @@
-<img src="https://user-images.githubusercontent.com/86865701/183516044-3dd15241-732e-4cdc-9691-e1ab033082fb.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
-
 ## Bem vindo! ☄️
 
-Me chamo Luiz Guilherme, tenho 20 anos e gosto de tecnologias front-end. Atualmente estou graduando Análise e Desenvolvimento de Sistemas na Fatec Guaratinguetá.
+Me chamo Luiz Guilherme, tenho 21 anos e gosto de tecnologias front-end.
 
 #### Redes sociais para contato: 
 
