@@ -1,6 +1,6 @@
 ## Bem vindo! ☄️
 
-Me chamo Luiz Guilherme, tenho 21 anos e gosto de tecnologias front-end.
+Me chamo Luiz Guilherme, tenho 21 anos.
 
 #### Redes sociais para contato: 
 
